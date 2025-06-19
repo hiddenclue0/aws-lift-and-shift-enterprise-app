@@ -17,8 +17,8 @@ This project involves migrating a multi-tier enterprise application (`spring-mul
 
 Our current application runs on physical/virtual servers supporting:
 
-- Databases (MySQL/PostgreSQL/Oracle)
-- Application servers (Tomcat, LAMP stack)
+- Databases (MySQL)
+- Application servers (Tomcat)
 - Messaging (RabbitMQ)
 - Caching (Memcached)
 - DNS and monitoring services
